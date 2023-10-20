@@ -1,0 +1,86 @@
+{
+  "financialHistory": [
+    {
+      "id": 1,
+      "userId": 1,
+      "type": "ingreso",
+      "amount": 100,
+      "description": "Salario mensual"
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "type": "gasto",
+      "amount": 30,
+      "description": "Cena"
+    },
+    {
+      "userId": 1,
+      "type": "ingreso",
+      "amount": 100,
+      "description": "Salario mensual",
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "type": "ingreso",
+      "amount": 100,
+      "description": "Salario mensual",
+      "id": 4
+    },
+    {
+      "userId": 100,
+      "date": "2023-10-20T02:03:03.778Z",
+      "type": "gasto",
+      "description": "Gasto para alguiler",
+      "detailType": "VariousExpenses",
+      "amount": 677,
+      "id": 5
+    },
+    {
+      "userId": 100,
+      "date": "2023-10-20T09:49:52.724Z",
+      "type": "gasto",
+      "description": "Gasto prueba",
+      "detailType": "Shopping",
+      "amount": 555,
+      "id": 6
+    },
+    {
+      "userId": 100,
+      "date": "2023-10-20T09:50:48.211Z",
+      "type": "gasto",
+      "description": "Prueba2",
+      "detailType": "VariousExpenses",
+      "amount": 222,
+      "id": 7
+    },
+    {
+      "userId": 100,
+      "date": "2023-10-20T09:50:48.211Z",
+      "type": "gasto",
+      "description": "Prueba2",
+      "detailType": "VariousExpenses",
+      "amount": 222,
+      "id": 8
+    },
+    {
+      "userId": 100,
+      "date": "2023-10-20T09:54:02.007Z",
+      "type": "gasto",
+      "description": "Gasto 2 test",
+      "detailType": "Education",
+      "amount": 654,
+      "id": 9
+    },
+    {
+      "userId": 100,
+      "date": "2023-10-20T09:55:16.551Z",
+      "type": "gasto",
+      "description": "Gast test 3",
+      "detailType": "Salary",
+      "amount": 200,
+      "id": 10
+    }
+  ]
+}
